@@ -1,0 +1,6 @@
+Memoria ram: 8 GB
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1356       1    1356       1356  ?        1066699 09:06:44 /usr/bin/mintty
+     8032    1356    8032      11668  pty0     1066699 09:06:44 /usr/bin/bash
+    12784   10920   10920       2836  pty0     1066699 11:23:27 /usr/bin/ps
+    10920    8032   10920      10920  pty0     1066699 11:23:26 /usr/bin/bash
